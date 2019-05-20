@@ -21,6 +21,7 @@ h1 {
   text-transform: uppercase;
   color: var(--color-primary);
   --font-primary: "Akzidenz-Grotesk BQ", sans-serif;
+  font-weight: bold;
 }
 
 h2 {
@@ -61,4 +62,10 @@ a:visited{
 
 ul li {
   color: black;
+}
+
+dt {
+  text-transform: uppercase;
+ color: var(--color-accent);
+ font-weight: bold;
 }
