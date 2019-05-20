@@ -39,3 +39,7 @@ h5 {
 h6 {
   color: var(--color-primary);
 }
+
+mark {
+  background-color: var(--color-primary-light);
+}
