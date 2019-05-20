@@ -12,4 +12,30 @@
 
 html {
   font-family: var(--font-primary);
+  var(--font-primary);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+h1 {
+  color: var(--color-primary);
+}
+
+h2 {
+  color: var(--color-primary);
+}
+
+h4 {
+  color: var(--color-primary);
+}
+
+h5 {
+  color: var(--color-primary);
+}
+
+h6 {
+  color: var(--color-primary);
 }
