@@ -69,3 +69,9 @@ dt {
  color: var(--color-accent);
  font-weight: bold;
 }
+
+/*Emphasis*/
+
+strong {
+  color: var(--color-primary);
+}
